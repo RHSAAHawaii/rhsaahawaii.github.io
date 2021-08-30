@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b83db337.chunk.css",
+    "main.js": "/static/js/main.88725ea9.chunk.js",
+    "main.js.map": "/static/js/main.88725ea9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.61217df4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.61217df4.js.map",
+    "static/css/2.fa6c921b.chunk.css": "/static/css/2.fa6c921b.chunk.css",
+    "static/js/2.70e77121.chunk.js": "/static/js/2.70e77121.chunk.js",
+    "static/js/2.70e77121.chunk.js.map": "/static/js/2.70e77121.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.543801fcb15d4165f1532087b6cd74f7.js": "/precache-manifest.543801fcb15d4165f1532087b6cd74f7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.fa6c921b.chunk.css.map": "/static/css/2.fa6c921b.chunk.css.map",
+    "static/css/main.b83db337.chunk.css.map": "/static/css/main.b83db337.chunk.css.map",
+    "static/js/2.70e77121.chunk.js.LICENSE.txt": "/static/js/2.70e77121.chunk.js.LICENSE.txt",
+    "static/media/CalyxBadon.jpg": "/static/media/CalyxBadon.4334612b.jpg",
+    "static/media/LakotaNguyen.jpg": "/static/media/LakotaNguyen.d61b36e7.jpg",
+    "static/media/MaxwellHiga.jpg": "/static/media/MaxwellHiga.15820ddd.jpg",
+    "static/media/style.css": "/static/media/landing2.050db6e1.jpg",
+    "static/media/donations_finishline.jpg": "/static/media/donations_finishline.3e788c73.jpg",
+    "static/media/grouplei.jpg": "/static/media/grouplei.0098b5a6.jpg",
+    "static/media/headshot-ogawa.jpg": "/static/media/headshot-ogawa.e5c7036f.jpg",
+    "static/media/hoolauDinner.jpg": "/static/media/hoolauDinner.0a1869b6.jpg",
+    "static/media/kenekeGusman.jpg": "/static/media/kenekeGusman.7bdff94e.jpg",
+    "static/media/projectgrad-temp.jpg": "/static/media/projectgrad-temp.327396d0.jpg",
+    "static/media/raf-80thAnni.jpg": "/static/media/raf-80thAnni.650d0b1a.jpg",
+    "static/media/raf2.png": "/static/media/raf2.c11ad2d5.png",
+    "static/media/rhsaahawaii-1960mural.jpg": "/static/media/rhsaahawaii-1960mural.8cb887e2.jpg",
+    "static/media/rooseveltWhiteLogo.png": "/static/media/rooseveltWhiteLogo.45488cd7.png",
+    "static/media/scholarships-2012.jpg": "/static/media/scholarships-2012.ddff84bd.jpg",
+    "static/media/selfStorage.jpg": "/static/media/selfStorage.b51ac9fb.jpg",
+    "static/media/service-paintingmural.jpg": "/static/media/service-paintingmural.ade3478d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61217df4.js",
+    "static/css/2.fa6c921b.chunk.css",
+    "static/js/2.70e77121.chunk.js",
+    "static/css/main.b83db337.chunk.css",
+    "static/js/main.88725ea9.chunk.js"
+  ]
+}
