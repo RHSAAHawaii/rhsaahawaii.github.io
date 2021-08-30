@@ -1,0 +1,92 @@
+[
+  {
+     "purpose": "Concrete Benches (Class of '63)",
+     "amount": 9678,
+     "group": "Campus Beautification"
+  },
+  {
+    "purpose": "Eagle Scout Project",
+    "amount": 400,
+    "group": "Campus Beautification"
+  },
+  {
+   "purpose": "Classroom Supplies",
+   "amount": 12803,
+   "group": "School Supplies"
+  },
+  {
+   "purpose": "Theodore Roosevelt Bust (RAF Gift)",
+   "amount": 6530,
+   "group": "School Supplies"
+  },
+  {
+   "purpose": "AED Institute of Ameria (AEDs for RHS)",
+   "amount": 3720,
+   "group": "School Supplies"
+  },
+  {
+   "purpose": "Robotics Team",
+   "amount": 7500,
+   "group": "Extracurricular Activities"
+  },
+  {
+   "purpose": "Golf Team",
+   "amount": 6000,
+   "group": "Extracurricular Activities"
+  },
+  {
+   "purpose": "Creative Teens (Class of '57)",
+   "amount": 5495,
+   "group": "Extracurricular Activities"
+  },
+  {
+   "purpose": "Football Team",
+   "amount": 5000,
+   "group": "Extracurricular Activities"
+  },
+  {
+   "purpose": "RHS HOSA Group",
+   "amount": 5000,
+   "group": "Extracurricular Activities"
+  },
+  {
+   "purpose": "Hiroshima Student Exchange",
+   "amount": 2600,
+   "group": "Extracurricular Activities"
+  },
+  {
+   "purpose": "HI Council on Economic Education",
+   "amount": 1900,
+   "group": "Extracurricular Activities"
+  },
+  {
+   "purpose": "Relay For Life",
+   "amount": 1300, 
+   "group": "Extracurricular Activities"
+  },
+  {
+   "purpose": "Various Campus Events",
+   "amount": 1260, 
+   "group": "Extracurricular Activities"
+  },
+  {
+   "purpose": "Spirit Club",
+   "amount": 1000, 
+   "group": "Extracurricular Activities"
+  },
+  {
+   "purpose": "Music Boosters",
+   "amount": 300, 
+   "group": "Extracurricular Activities"
+  },
+  {
+   "purpose": "STEM",
+   "amount": 200, 
+   "group": "Extracurricular Activities"
+  },  
+  {
+   "purpose": "Graphic Design Class",
+   "amount": 100, 
+   "group": "Extracurricular Activities"
+  }
+]

@@ -1,0 +1,1058 @@
+[
+  {
+    "lastName": "Badon",
+    "firstName": "Calyx",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Hilo",
+    "Class": 2020,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Lee",
+    "firstName": "Mia",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2020,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "White",
+    "firstName": "Jenny",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2020,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Cao",
+    "firstName": "Hao",
+    "Amount": "$1,500",
+    "College": "Bentley University, Massachusetts",
+    "Class": 2020,
+    "Scholarship": "Class of '67"
+  },
+  {
+    "lastName": "Cooksey",
+    "firstName": "Emma",
+    "Amount": "$1,500",
+    "College": "Wheaton College, Illinois",
+    "Class": 2020,
+    "Scholarship": "Class of '67"
+  },
+  {
+    "lastName": "Higa",
+    "firstName": "Maxwell",
+    "Amount": "$1,000",
+    "College": "Boston University, Massachusetts",
+    "Class": 2020,
+    "Scholarship": "Lien Phu Scholars"
+  },
+  {
+    "lastName": "Nguyen",
+    "firstName": "Lakota",
+    "Amount": "$1,000",
+    "College": "University of California, Los Angeles",
+    "Class": 2020,
+    "Scholarship": "Lien Phu Scholars"
+  },
+  {
+    "lastName": "Gusman",
+    "firstName": "Keneke",
+    "Amount": "$3,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2020,
+    "Scholarship": "Red and Gold"
+  },
+  {
+    "lastName": "French",
+    "firstName": "Maliek",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2019,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Moses",
+    "firstName": "Kauaolilikoikalani",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2019,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Suzuki",
+    "firstName": "Brooke",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2019,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Tully-Sabog",
+    "firstName": "Kawai",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2019,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Luiz",
+    "firstName": "Sadie Ann",
+    "Amount": "$1,000",
+    "College": "Oregon Institute of Technology",
+    "Class": 2019,
+    "Scholarship": "Class of '67"
+  },
+  {
+    "lastName": "Ono",
+    "firstName": "Mara",
+    "Amount": "$1,000",
+    "College": "University of Nevada, Las Vegas",
+    "Class": 2019,
+    "Scholarship": "Class of '67"
+  },
+  {
+    "lastName": "Yim",
+    "firstName": "Samantha",
+    "Amount": "$1,000",
+    "College": "Western Oregon University",
+    "Class": 2019,
+    "Scholarship": "Class of '67"
+  },
+  {
+    "lastName": "Colling",
+    "firstName": "Vanessa",
+    "Amount": "$1,000",
+    "College": "Odessa College",
+    "Class": 2019,
+    "Scholarship": "Lien Phu Scholars"
+  },
+  {
+    "lastName": "French",
+    "firstName": "Mikael",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2019,
+    "Scholarship": "Lien Phu Scholars"
+  },
+  {
+    "lastName": "Chau",
+    "firstName": "Darlyn",
+    "Amount": "$1,000",
+    "College": "University of Hawaii at Manoa",
+    "Class": 2018,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Cho",
+    "firstName": "Taehee",
+    "Amount": "$1,000",
+    "College": "University of Hawaii at Manoa",
+    "Class": 2018,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Moriyama",
+    "firstName": "Emily",
+    "Amount": "$1,000",
+    "College": "University of Hawaii at Manoa",
+    "Class": 2018,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Rincon",
+    "firstName": "Dorina",
+    "Amount": "$1,000",
+    "College": "Chaminade University",
+    "Class": 2018,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Briseno-Aurio",
+    "firstName": "Alicia",
+    "Amount": "$1,000",
+    "College": "Boise State University",
+    "Class": 2018,
+    "Scholarship": "Class of '67"
+  },
+  {
+    "lastName": "Yanagihara",
+    "firstName": "Darci",
+    "Amount": "$500",
+    "College": "Honolulu Community College",
+    "Class": 2018,
+    "Scholarship": "Class of '67"
+  },
+  {
+    "lastName": "Latham",
+    "firstName": "Kautious-Marie",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2017,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Lucas",
+    "firstName": "Ashley",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2017,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Chang",
+    "firstName": "Willy",
+    "Amount": "$1,000",
+    "College": "University of Hawaii at Manoa",
+    "Class": 2017,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Fujinaga",
+    "firstName": "Bailey",
+    "Amount": "$1,000",
+    "College": "University of Hawaii at Manoa",
+    "Class": 2017,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Chen",
+    "firstName": "Jia Qi",
+    "Amount": "$1,000",
+    "College": "University of Hawaii at Manoa",
+    "Class": 2017,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Lin",
+    "firstName": "Yini",
+    "Amount": "$1,000",
+    "College": "University of Hawaii at Manoa",
+    "Class": 2017,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Au",
+    "firstName": "Noah",
+    "Amount": "$500",
+    "College": "Windward Community College",
+    "Class": 2017,
+    "Scholarship": "Class of '67"
+  },
+  {
+    "lastName": "Ramirez",
+    "firstName": "Sophia",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2017,
+    "Scholarship": "Class of '67"
+  },
+  {
+    "lastName": "Tanabe",
+    "firstName": "Megan",
+    "Amount": "$1,000",
+    "College": "Creighton University",
+    "Class": 2017,
+    "Scholarship": "Melanie Kawano"
+  },
+  {
+    "lastName": "Akiu",
+    "firstName": "Alana",
+    "Amount": "$2,000",
+    "College": "Brigham Young University at Provo",
+    "Class": 2017,
+    "Scholarship": "Red and Gold"
+  },
+  {
+    "lastName": "Hyun",
+    "firstName": "Michael",
+    "Amount": "$2,000",
+    "College": "University of Hawaii at Manoa",
+    "Class": 2017,
+    "Scholarship": "Red and Gold"
+  },
+  {
+    "lastName": "Jang",
+    "firstName": "Hajin",
+    "Amount": "$2,000",
+    "College": "Northwestern University",
+    "Class": 2017,
+    "Scholarship": "Red and Gold"
+  },
+  {
+    "lastName": "Liu",
+    "firstName": "Kevin",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2016,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Valen",
+    "firstName": "Lynda",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2016,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Lee",
+    "firstName": "Arong",
+    "Amount": "$1,000",
+    "College": "Whitman College",
+    "Class": 2016,
+    "Scholarship": "RAF & Class of '61"
+  },
+  {
+    "lastName": "Nguyen",
+    "firstName": "Kim Yen",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2016,
+    "Scholarship": "RAF & Class of '61"
+  },
+  {
+    "lastName": "Silao",
+    "firstName": "Rachelle Anne",
+    "Amount": "$1,000",
+    "College": "Chaminade University",
+    "Class": 2016,
+    "Scholarship": "RAF & Class of '61"
+  },
+  {
+    "lastName": "Hu",
+    "firstName": "Yuwen",
+    "Amount": "$1,000",
+    "College": "University of San Francisco",
+    "Class": 2016,
+    "Scholarship": "RAF Friends of Red & Gold"
+  },
+  {
+    "lastName": "Mai",
+    "firstName": "Xiaofei",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2016,
+    "Scholarship": "RAF Friends of Red & Gold"
+  },
+  {
+    "lastName": "Ng",
+    "firstName": "Gha Ming",
+    "Amount": "$1,000",
+    "College": "Western Oregon University",
+    "Class": 2016,
+    "Scholarship": "RAF Friends of Red & Gold"
+  },
+  {
+    "lastName": "Pang",
+    "firstName": "Xingyin",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2016,
+    "Scholarship": "RAF Friends of Red & Gold"
+  },
+  {
+    "lastName": "Leong",
+    "firstName": "Alicia W.J.Y.",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2015,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Radkov",
+    "firstName": "Stephen A.",
+    "Amount": "$500",
+    "College": "Honolulu Community College",
+    "Class": 2015,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Wong",
+    "firstName": "Connie P.",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2015,
+    "Scholarship": "RAF & Hawaii Alpha Delta Kappa"
+  },
+  {
+    "lastName": "Kaulia",
+    "firstName": "Kristen K.",
+    "Amount": "$1,500",
+    "College": "Eastern Washington University",
+    "Class": 2015,
+    "Scholarship": "RAF & Class of '62"
+  },
+  {
+    "lastName": "Huang",
+    "firstName": "Joanne Y.T.",
+    "Amount": "$1,000",
+    "College": "Lehigh University",
+    "Class": 2015,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Huynh",
+    "firstName": "Chin K.",
+    "Amount": "$1,000",
+    "College": "Gonzaga University",
+    "Class": 2015,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Kapiko",
+    "firstName": "Kaohi D.K.",
+    "Amount": "$1,000",
+    "College": "Gonzaga University",
+    "Class": 2015,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Kawasaki",
+    "firstName": "Jake T.K.",
+    "Amount": "$1,000",
+    "College": "Santa Clara University",
+    "Class": 2015,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Ko",
+    "firstName": "Tammy W.K.",
+    "Amount": "$1,000",
+    "College": "University of Southern California",
+    "Class": 2015,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Kojima",
+    "firstName": "Kristen N.",
+    "Amount": "$1,000",
+    "College": "Creighton University",
+    "Class": 2015,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Lau",
+    "firstName": "Colleen W.L.",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2015,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Lin",
+    "firstName": "Jason Y.",
+    "Amount": "$1,000",
+    "College": "American University",
+    "Class": 2015,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Miyasato",
+    "firstName": "Aaron T.H.",
+    "Amount": "$1,000",
+    "College": "University of Washington",
+    "Class": 2015,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Nguyen",
+    "firstName": "Brenda",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2015,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Sarmiento III",
+    "firstName": "Geminiano",
+    "Amount": "$1,000",
+    "College": "Willamette University",
+    "Class": 2015,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Xian",
+    "firstName": "Yanna",
+    "Amount": "$1,000",
+    "College": "Creigton University",
+    "Class": 2015,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Zhou",
+    "firstName": "Hinman",
+    "Amount": "$1,100",
+    "College": "Creighton University",
+    "Class": 2015,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Tsubota",
+    "firstName": "Kai C.",
+    "Amount": "$1,500",
+    "College": "Whitman College",
+    "Class": 2015,
+    "Scholarship": "RAF Friends of Red & Gold"
+  },
+  {
+    "lastName": "Nakagawa",
+    "firstName": "Tori",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Hilo",
+    "Class": 2014,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Desmond",
+    "firstName": "Gilllian",
+    "Amount": "$1,500",
+    "College": "Pomona College",
+    "Class": 2014,
+    "Scholarship": "RAF & Class of '62"
+  },
+  {
+    "lastName": "Huynh",
+    "firstName": "Michelle",
+    "Amount": "$1,500",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2014,
+    "Scholarship": "RAF & Class of '62"
+  },
+  {
+    "lastName": "Kwok",
+    "firstName": "Wing Ying (Ivy)",
+    "Amount": "$1,500",
+    "College": "University of San Francisco",
+    "Class": 2014,
+    "Scholarship": "RAF & Class of '62"
+  },
+  {
+    "lastName": "Truong",
+    "firstName": "Celine",
+    "Amount": "$1,500",
+    "College": "University of California, Long Beach",
+    "Class": 2014,
+    "Scholarship": "RAF & Class of '62"
+  },
+  {
+    "lastName": "Aguinaldo",
+    "firstName": "Cody",
+    "Amount": "$1,500",
+    "College": "University of Oregon",
+    "Class": 2014,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Chan",
+    "firstName": "Jackie",
+    "Amount": "$1,500",
+    "College": "Stanford University",
+    "Class": 2014,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Fukushima",
+    "firstName": "Garin",
+    "Amount": "$1,500",
+    "College": "Pacific University",
+    "Class": 2014,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Huynh",
+    "firstName": "Michelle",
+    "Amount": "$1,500",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2014,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Nhieu",
+    "firstName": "Victor",
+    "Amount": "$1,500",
+    "College": "Chapman University",
+    "Class": 2014,
+    "Scholarship": "RAF & Class of '64"
+  },
+  {
+    "lastName": "Arakawa",
+    "firstName": "David",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2013,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Castro",
+    "firstName": "Monique Ann",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2013,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Ferrer",
+    "firstName": "Kayla",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2013,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Kamai",
+    "firstName": "Rachel",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2013,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Li",
+    "firstName": "Ying",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2013,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Quadri",
+    "firstName": "Mohammad Talha",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2013,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Huynh",
+    "firstName": "Diana",
+    "Amount": "$1,500",
+    "College": "Depauw University",
+    "Class": 2013,
+    "Scholarship": "RAF & Class of '62"
+  },
+  {
+    "lastName": "Kim",
+    "firstName": "Nolan",
+    "Amount": "$1,500",
+    "College": "Central Washington University",
+    "Class": 2013,
+    "Scholarship": "RAF & Class of '62"
+  },
+  {
+    "lastName": "Oshiro",
+    "firstName": "Daniel",
+    "Amount": "$1,500",
+    "College": "University of Texas, Austin",
+    "Class": 2013,
+    "Scholarship": "RAF & Class of '62"
+  },
+  {
+    "lastName": "Canady",
+    "firstName": "Kaloke",
+    "Amount": "$1,000",
+    "College": "Chaminade University",
+    "Class": 2012,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Garrett",
+    "firstName": "Xina-Ann",
+    "Amount": "$500",
+    "College": "Honolulu Community College",
+    "Class": 2012,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Li",
+    "firstName": "Li Qui",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2012,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Richardson",
+    "firstName": "James",
+    "Amount": "$1,000",
+    "College": "Brigham Young University, Hawaii",
+    "Class": 2012,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "So",
+    "firstName": "Sereysothea",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2012,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Abe",
+    "firstName": "Davian",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2011,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Arruda",
+    "firstName": "Kylee-Ray",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2011,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Cheng",
+    "firstName": "Peter",
+    "Amount": "$1,000",
+    "College": "Chaminade University",
+    "Class": 2011,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Chong",
+    "firstName": "Christine",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2011,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Ruiz",
+    "firstName": "Janet",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2011,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Rono",
+    "firstName": "Razelle",
+    "Amount": "$1,000",
+    "College": "Hawaii Pacific University",
+    "Class": 2011,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Sakai",
+    "firstName": "Isaac",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2011,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Chau",
+    "firstName": "Geena",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Hilo",
+    "Class": 2010,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Chau",
+    "firstName": "Kristina",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Hilo",
+    "Class": 2010,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Ebanez",
+    "firstName": "Erika",
+    "Amount": "$1,000",
+    "College": "Hawaii Pacific University",
+    "Class": 2010,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Lederer",
+    "firstName": "Chris",
+    "Amount": "$500",
+    "College": "Honolulu Community College",
+    "Class": 2010,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Liu",
+    "firstName": "Jenny",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2010,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Liu",
+    "firstName": "Tina",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2010,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Yogi",
+    "firstName": "Chase",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2010,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Baron",
+    "firstName": "Michelle",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2009,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Koizumi",
+    "firstName": "Keenan",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2009,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Loo",
+    "firstName": "Tori-Ann",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2009,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Mochizuki",
+    "firstName": "Aaron",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2009,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Oshitari",
+    "firstName": "Daijiro",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2009,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Phouksouvath",
+    "firstName": "Ronald",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2009,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Scott-Dedrick",
+    "firstName": "Blessing",
+    "Amount": "$1,000",
+    "College": "Chaminade University",
+    "Class": 2009,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Au",
+    "firstName": "Brittni",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2008,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Cheng",
+    "firstName": "Alice",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2008,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Ho",
+    "firstName": "Tina",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2008,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Kim",
+    "firstName": "Woo Soeb",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2008,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Luu",
+    "firstName": "Katherine",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Hilo",
+    "Class": 2008,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Okano",
+    "firstName": "Kirstie",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2008,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Huyh",
+    "firstName": "Sieu K.",
+    "Amount": "$500",
+    "College": "Honolulu Community College",
+    "Class": 2007,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Kim",
+    "firstName": "Lily",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2007,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "McBean",
+    "firstName": "Kiani M.",
+    "Amount": "$500",
+    "College": "Honolulu Community College",
+    "Class": 2007,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Sakata",
+    "firstName": "Amanda C.",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2007,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Bolos",
+    "firstName": "Julie C.",
+    "Amount": "$1,000",
+    "College": "Hawaii Pacific University",
+    "Class": 2006,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Curiale",
+    "firstName": "Renee",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2006,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Leong",
+    "firstName": "Melanie M.Y.",
+    "Amount": "$1,000",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2006,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Mizukami",
+    "firstName": "Brandie L.Y.",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2006,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Chow",
+    "firstName": "Ka Lee",
+    "Amount": "$500",
+    "College": "University of Hawaii, Manoa",
+    "Class": 2005,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Dymally",
+    "firstName": "Gary S.",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2005,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Kaneshiro",
+    "firstName": "Saori",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2005,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Lowe",
+    "firstName": "Naomi M.",
+    "Amount": "$500",
+    "College": "Honolulu Community College",
+    "Class": 2005,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Luong",
+    "firstName": "Richard",
+    "Amount": "$500",
+    "College": "Grinnell College",
+    "Class": 2005,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Yuen",
+    "firstName": "Brad R.",
+    "Amount": "$500",
+    "College": "Boston University",
+    "Class": 2005,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Castro",
+    "firstName": "James J.",
+    "Amount": "$500",
+    "College": "North Seattle Community College",
+    "Class": 2004,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Boyd",
+    "firstName": "Brittany A.",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2004,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Au",
+    "firstName": "Jennifer Y.M.L.",
+    "Amount": "$500",
+    "College": "Kapiolani Community College",
+    "Class": 2004,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Matsumoto",
+    "firstName": "Nicolette",
+    "Amount": "$500",
+    "College": "Unviersity of Hawaii",
+    "Class": 2004,
+    "Scholarship": "RAF"
+  },
+  {
+    "lastName": "Lau",
+    "firstName": "Helen Wing Yee",
+    "Amount": "$1,000",
+    "College": "Unviersity of Hawaii",
+    "Class": 2004,
+    "Scholarship": "RAF"
+  }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Garret Y. Ogawa",
+        "picture": "https://raw.githubusercontent.com/RHSAAHawaii/rhsaahawaii/master/my-app/src/images/headshot-ogawa.jpg",
+        "graduatingClass": 1976,
+        "role": "President"
+    },
+    {
+        "name": "Sadie C.F. Yuen Oshiro",
+        "picture": "https://raw.githubusercontent.com/RHSAAHawaii/rhsaahawaii/master/my-app/src/images/board/YuenOshiro_Sadie.jpg",
+        "graduatingClass": 1962,
+        "role": "1st Vice President"
+    },
+    {
+        "name": "Gladys M. Karr",
+        "picture": "https://raw.githubusercontent.com/RHSAAHawaii/rhsaahawaii/master/my-app/src/images/board/Karr_Gladys.jpg",
+        "graduatingClass": 1962,
+        "role": "2nd Vice President"
+    },
+    {
+        "name": "Carol K. Y. Ferwerda Hopkins",
+        "picture": "https://raw.githubusercontent.com/RHSAAHawaii/rhsaahawaii/master/my-app/src/images/board/FerwerdaHopkins_Carol.jpg",
+        "graduatingClass": 1961,
+        "role": "Corresponding Secretary"
+    },
+    {
+        "name": "Leona M. Chow Kobashigawa",
+        "picture": "https://raw.githubusercontent.com/RHSAAHawaii/rhsaahawaii/master/my-app/src/images/board/ChowKobashigawa_Leona.jpg",
+        "graduatingClass": 1976,
+        "role": "Recording Secretary"
+    },
+    {
+        "name": "Leila K. Otsuka Tamashiro",
+        "picture": "https://raw.githubusercontent.com/RHSAAHawaii/rhsaahawaii/master/my-app/src/images/board/OtsukaTamashiro_Leila.jpg",
+        "graduatingClass": 1967,
+        "role": "Treasurer"
+    },
+    {
+        "name": "Rodney Chai",
+        "picture": "https://raw.githubusercontent.com/RHSAAHawaii/rhsaahawaii/master/my-app/src/images/logo-original.jpg",
+        "graduatingClass": 1960,
+        "role": "Board Member"
+    },
+    {
+        "name": "Vernon Kaahanui Sr.",
+        "picture": "https://raw.githubusercontent.com/RHSAAHawaii/rhsaahawaii/master/my-app/src/images/board/Kaahanui_Vernon.jpg",
+        "graduatingClass": 1962,
+        "role": "Board Member"
+    },
+    {
+        "name": "Barbara Koja Lau",
+        "picture": "https://raw.githubusercontent.com/RHSAAHawaii/rhsaahawaii/master/my-app/src/images/board/KojaLau_Barbara.jpg",
+        "graduatingClass": 1980,
+        "role": "Board Member"
+    },
+    {
+        "name": "John Luiz",
+        "picture": "https://raw.githubusercontent.com/RHSAAHawaii/rhsaahawaii/master/my-app/src/images/board/Luiz_John.jpg",
+        "graduatingClass": 1992,
+        "role": "Board Member"
+    },
+    {
+        "name": "Aaron Lum",
+        "picture": "https://raw.githubusercontent.com/RHSAAHawaii/rhsaahawaii/master/my-app/src/images/board/Lum_Aaron.jpg",
+        "graduatingClass": 1991,
+        "role": "Board Member"
+    },
+    {
+        "name": "Lauren Fukuda Nadolski",
+        "picture": "https://raw.githubusercontent.com/RHSAAHawaii/rhsaahawaii/master/my-app/src/images/board/FukudaNadolski_Lauren.jpg",
+        "graduatingClass": 1986,
+        "role": "Board Member"
+    },
+    {
+        "name": "Aileen Inaba Wada",
+        "picture": "https://raw.githubusercontent.com/RHSAAHawaii/rhsaahawaii/master/my-app/src/images/logo-original.jpg",
+        "graduatingClass": 1960,
+        "role": "Board Member"
+    }
+]

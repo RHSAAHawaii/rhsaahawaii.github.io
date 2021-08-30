@@ -1,0 +1,135 @@
+
+.backgroundImage {
+  background: url(./images/landing2.jpg) no-repeat center center fixed;
+  background-size: cover;
+  background-position: 0px -75px;
+}
+
+.backgroundStyle {
+  /*background-color: #f3e3c0;*/
+}
+
+#footer{
+  background-color: #cb0713;
+  border-top: 5px solid #f8b416;
+}
+
+.footerText{
+  margin-bottom: 0 ;
+}
+
+.whiteText{
+  color: whitesmoke !important;
+}
+
+#boardCardColor{
+  background-color: white;
+}
+
+#navBar{
+  background-color: #cb0713;
+  border-bottom: 5px solid #f8b416;
+}
+
+#logoFont{
+  font-family: 'Domine', serif;
+}
+
+
+/*Impact Page*/
+
+body{
+  font-family: "Lato", sans-serif;
+}
+
+.impactDonationImage{
+  display: block;
+  margin-left: auto;
+  margin-right: 5em;
+  margin-top: -7em;
+  padding-bottom: 2em;
+  width: 10%;
+}
+
+.rooseveltFront {
+  background: url("../src/images/RooseveltFront.jpg") no-repeat center;
+  background-size: cover;
+  height: 500px;
+}
+
+.impactTransparentTitleBox {
+  /*opacity: .5;*/
+  background-color: rgba(0,0,0,.65);
+  color: white;
+  font-family: 'Domine', serif;
+}
+
+.impactYellowBox {
+  background-color: #FFD677;
+}
+
+.impactRedInvolvedBox {
+  background-color: #AD0000;
+}
+
+.redHr {
+  border-color: #cb0713;
+  border-width: 3px;
+  /*width: 50%;*/
+  width: auto;
+  margin: 0;
+}
+
+.yellowHr {
+  border-color: #f8b416;
+  border-width: 3px;
+  width: auto;
+  margin: 0;
+}
+
+.impactSubheaders {
+  font-family: 'Domine', serif;
+}
+
+.animate__animated.animate__fadeIn {
+  --animate-duration: 2s;
+}
+
+.list-group-item-action:focus, .list-group-item-action:hover {
+  background-color: #FFD677 !important;
+}
+
+/*Scholarships Page*/
+.scholarHeader {
+  font-size: 3em;
+  font-family: 'Domine', serif;
+  margin-top: 1.5em !important;
+  margin-bottom: .5em !important;
+  color: #cb0713;
+}
+.scholarSubHeader {
+  font-family: 'Domine', serif;
+  color: #670007;
+}
+
+.containerOpa {
+  opacity: 1 !important;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Events */
+.responsiveCal {
+  position: relative;
+  padding-bottom: 75%;
+  height: 0;
+  overflow: hidden;
+}
+
+.responsiveCal iframe {
+  position: absolute;
+  top: 0;
+  left: 10%;
+  width: 80%;
+  height: 75%;
+}
